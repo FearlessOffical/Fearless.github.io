@@ -36,15 +36,3 @@ a:hover
                 0 0 50px #03e9f4,
                 0 0 200px #03e9f4;   
 }
-.box
-{
-   position: relative;
-   width: 400px;
-   height: 400px;
-   display: inline-block;
-   justify-content: center;
-   align-items: center;
-   color: red;
-   align-content: center;
-   text-transform: uppercase;
-}
